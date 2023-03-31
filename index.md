@@ -3,7 +3,7 @@
 # Зміст
 1. [Початок](#get-started)
 
-# Get Started
+## Початок
 - [TS для новачків](docs/get-started/ts-for-the-new-programmer.md)
 - [TypeScript для JS програмістів](docs/get-started/typescript-for-js-programmers.md)
 
