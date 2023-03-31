@@ -1,5 +1,5 @@
 # typescript-docs-ua
 Translation of TypeScript documentation to Ukrainian.
 
-# [Get Started](https://github.com/sncelta/typescript-docs-ua/tree/main/docs/get-started)
-- TS for the new programmer
+# Get Started
+- [TS for the new programmer](sncelta.github.io/typescript-docs-ua/ts-for-new-programmers.md/)
