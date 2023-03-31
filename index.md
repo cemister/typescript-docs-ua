@@ -1,9 +1,9 @@
-Translation of TypeScript documentation to Ukrainian.
+Переклад документації TypeScript українською мовою.
 
-# Table of Contents
-1. [Get Started](#get-started)
+# Зміст
+1. [Початок](#get-started)
 
 # Get Started
-- [TS for the new programmer](docs/get-started/ts-for-the-new-programmer.md)
-- [TypeScript for JS programmers](docs/get-started/typescript-for-js-programmers.md)
+- [TS для новачків](docs/get-started/ts-for-the-new-programmer.md)
+- [TypeScript для JS програмістів](docs/get-started/typescript-for-js-programmers.md)
 
